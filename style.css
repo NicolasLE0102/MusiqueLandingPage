@@ -1,0 +1,36 @@
+section 
+{margin-top: 10px;
+}
+.hero-image {
+  background-image: url("DJ.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 600px;
+  position: relative;
+  z-index: 1;
+}
+.card img {
+  height: 350px;
+  width: 100%;
+  object-fit: cover;
+  border : none;
+}
+.lead1{
+  color: #FFFFFF
+}
+.display-3{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 50px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+.card-text
+{
+font-family: 'Courgette', cursive;
+}
+.button
+{
+  border-radius: 100px;
+}
+
+
